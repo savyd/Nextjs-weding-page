@@ -1,2 +1,2 @@
-# web-pernikahan-codeberry
-&lt;h1>Tugas latihan Codeberry&lt;/h1>
+# Web Pernikahan
+tugas latihan dari CodeBerry yang di bangun dengan Next.js
